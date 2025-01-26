@@ -1,0 +1,10 @@
+{
+  "name": "WildFire",
+  "symbol": "WDFR",
+  "description": "An unstoppable token blazing its way through the blockchain.",
+ "image": "https://raw.githubusercontent.com/satoshinakumura/crypto/main/WildFire.png",
+  "uri": "https://raw.githubusercontent.com/satoshinakumura/crypto/refs/heads/main/wildfire-token_R1.json",
+  "uriHash": "1e3ff8bc2e0175b82e5298c7e34214825039955c9a9bb2d8c36b52455a8da8fb",
+  "creator": "8RAPXxWdFoMyszHPPKmdduym87taQVsNgxqCG7ymmYB3",
+  "decimals": 9
+}
